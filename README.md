@@ -2,7 +2,6 @@
 ## Features
 
   * [x] Fetch local songs (Inbuilt Permission)
-  * [x] Beautiful UI with multiple themes(Coming Soon)
   * [x] Animation
   * [x] Full Fledged Example
   * [x] play (local files)
